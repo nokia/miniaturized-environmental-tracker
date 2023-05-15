@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+C:\Users\hongweil\OneDrive\0_Documents\Altium\Projects\Gatekeeper_V2\Project Outputs for Gatekeeper_V2.2\Pick Place\bottom.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/06/19
+Time:       14:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C35","100nF","BottomLayer","CAPC1005X04L","0.7600","3.8750","270","Capacitor, 0402, X7R, ±10%"
+"C4","100nF","BottomLayer","CAPC1005X04L","41.6700","10.4500","180","Capacitor, 0402, X7R, ±10%"
+"R15","10k","BottomLayer","RESC1005X04L","13.7696","7.3406","90","Resistor, 0402, ±1%, 0.063W"
+"R2","10M","BottomLayer","RESC1005X04L","46.2900","6.3714","180","Resistor, 0402, ±1%, 0.063W"
+"C2","10nF","BottomLayer","CAPC1005X04L","46.2900","4.5680","0","Capacitor, 0402, X7R, ±5%"
+"C34","270pF","BottomLayer","CAPC1005X04L","7.6990","5.7150","0","Capacitor, 0402, NP0, ±2%"
+"C33","270pF","BottomLayer","CAPC1005X04L","9.7310","5.7150","180","Capacitor, 0402, NP0, ±2%"
+"R10","3.32M","BottomLayer","RESC1005X04L","38.1500","9.2060","180","Resistor, 0402, ±1%, 0.063W"
+"R7","3.83M","BottomLayer","RESC1005X04L","38.2000","6.4500","180","Resistor, 0402, ±1%, 0.063W"
+"R1","4.42M","BottomLayer","RESC1005X04L","46.2900","7.4564","360","Resistor, 0402, ±1%, 0.063W"
+"R9","4.42M","BottomLayer","RESC1005X04L","46.2900","2.6300","180","Resistor, 0402, ±1%, 0.063W"
+"C1","4.7uF","BottomLayer","CAPC1608X06L","46.1500","8.4960","0","Capacitor, 0603, X5R, ±10%"
+"C3","47uF","BottomLayer","CAPC2013X145X20NL20","41.2600","11.7900","0","Chip Capacitor, 47 uF, +/- 20%, 10 V, -55 to 85 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R2b","5.62M","BottomLayer","RESC1005X04L","46.2900","5.4570","0","Resistor, 0402, ±1%, 0.063W"
+"R8","5.62M","BottomLayer","RESC1005X04L","46.2900","3.5400","0","Resistor, 0402, ±1%, 0.063W"
+"R12","536k","BottomLayer","RESC1005X04L","38.2000","7.3750","180","Resistor, 0402, ±1%, 0.063W"
+"R6","6.04M","BottomLayer","RESC1005X04L","38.2000","5.5400","0","Resistor, 0402, ±1%, 0.063W"
+"R11","6.04M","BottomLayer","RESC1005X04L","38.1500","8.3000","180","Resistor, 0402, ±1%, 0.063W"
+"U1","BQ25504RGTT","BottomLayer","RGT0016C_V","41.7000","7.3000","180","Ultra Low Power Boost Converter with Battery Management for Energy Harvester App, 0.13 V, -40 to 85 degC, 16-pin QFN (RGT), Green (RoHS & no Sb/Br)"
+"SD1","DM3D-SF","BottomLayer","HIRO-DM3D-SF_V","6.7500","12.5100","360","Micro SD Card Connector, Push-Pull, Top Board Mounting, 125 V, 0.5 A, -25 to 85 degC, 8-Pin SMD, RoHS, Tape and Reel"
+"J1","FPC 0.5mm RA SMD","BottomLayer","FPC_05P-0.5MM-RA-SMD","8.7146","3.0914","180","0.5mm FPC, 5P,Right Angle SMT,Double Contact,H=1.2mm,White, Tin plated"
+"L1","LPS4018-223MRB","BottomLayer","COIL-LPS4018_V","45.3500","11.6500","180","Shielded Power Inductor, 22 uH, +/- 20%, 360 mOhm, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"P3","MicroUSB-B","BottomLayer","USB-MICRO-B-RA-SMD-PIP","40.2000","2.7025","90","MicroUSB-B-SMT"
+"U11","NX3DV2567","BottomLayer","XQFN40P180X260X50-16N","3.1000","4.4000","270","Low-ohmic four-pole double-throw analog switch"
+"SW2","USLPT3026BL1TR","BottomLayer","SWITCH_USLPT3026EL1TR","47.5200","16.7400","0","Low-Profile Tactile Switch, SPST, 50 mA, 12 VDC, -40 to 85 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"R5","XH10k","BottomLayer","RESC1005X04L_OVERLAY2","35.5000","9.7500","270","THERMISTOR 10K OHM NTC 0402 SMD"

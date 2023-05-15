@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [Gatekeeper_8D_V2.2_layerpaired.PcbDoc]
+   Generated File[Gatekeeper_8D_V2.2_layerpaired.DXF]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:50:51 On 21/02/2022
