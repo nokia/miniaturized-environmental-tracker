@@ -1,12 +1,17 @@
 # Introduction 
 
- Miniaturized Environmental Tracker is a device developed by Data and Device Group of Nokia Bell Labs at Cambridge site. The device is called Gecko (originally: gatekeeper) and both names are widely used in this repository. 
+ Miniaturized Environmental Tracker is a device developed by Data and Device Group of Nokia Bell Labs at Cambridge site during 2018-2020. The device is called Gecko (originally: gatekeeper) and both names are widely used in this repository.   
+ The original and main developer of the firmware is our previous colleague Philip Derrick (https://github.com/phild68).
 
 ## Devices details
 
 Gecko is a portable environmental sensing device. It contains temperature, air pressure, air quality, light, sound and IMU sensors. The device also has a solar panel for energy harvesting. We have manufactured hardware devices in two sizes, with different dimensions and battery sizes. 
 1) Gecko, the normal size device, has a size of 55x25x15 mm with 500 mAh LiPo battery and  weight of about 24 grams. 
-2) Geckino, smaller size version, has a size of  40x25x15 mm with 150 mAh LiPo battery and weight of about 16 grams. 
+
+![Gecko](Gecko.png)
+
+2) Geckino, smaller size version, has a size of  40x25x15 mm with 150 mAh LiPo battery and weight of about 16 grams.    
+![Geckino](Geckino.png)
 
 ### MCU and Sensors
 * MCU is ARM-based Cortex M4-F 64MHz processor nRF52832 from Nordic Semiconductor.   
