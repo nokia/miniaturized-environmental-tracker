@@ -31,7 +31,7 @@ Segger Embedded Studio can be downloaded: https://www.segger.com/products/develo
 
 nRF5 SDK 15.3.0 can be downloaded: https://www.nordicsemi.com/Products/Development-software/nRF5-SDK/Download#infotabs
 
-JLink device hardare, its drive (https://www.segger.com/downloads/jlink/) and nRF Command Line Tools are also required for compiling and uploading the firmware to device. 
+JLink device hardware, its drive (https://www.segger.com/downloads/jlink/) and nRF Command Line Tools are also required for compiling and uploading the firmware to device. 
 
 ## How to start 
 Download and Install Segger Embedded Studio and get a license for Nordic MCU as needed. Version of SDK used is:   

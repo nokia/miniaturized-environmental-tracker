@@ -3,7 +3,7 @@
 
 ## Step 1 - Keys
 
-Keys have already been generated and are in dfu/gecko\_public\_key.c and dfu/gecko\_private.key in the workspace. Replacement keys can be generated with the following commands: -
+Private key has not been uploaded for security reason. Keys are paired files in dfu folder of the workspace: `gecko_private.key` and `gecko_public_key.c`. new pair of keys need to be generated with the following commands: 
 
 `nrfutil keys generate private.key`
 
